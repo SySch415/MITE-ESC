@@ -307,7 +307,7 @@ Currently a prototype-level build. The KiCad schematic is in [`hardware/controll
 
 ## License
 
-**Firmware** (`controller/`, `crawler/`, `drivers/`): [MIT](LICENSE) © 2026 Simon Schmidt
+**Firmware** (`controller/`, `crawler/`, `drivers/`): [MIT](LICENSE) © 2026 Simon Schmidt  
 **Hardware design files** (`hardware/`): [CERN-OHL-P v2](hardware/LICENSE) © 2026 Simon Schmidt
 
 The Kovali name and logo are trademarks of Kovali, a California limited liability company. All rights reserved.
