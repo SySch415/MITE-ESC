@@ -1,6 +1,6 @@
 # MITE - SCX24 Electronic Speed Controller
 
-![MITE v1 board render](docs/images/mite-v1-white.png)
+![MITE v1 board render](docs/images/mite-v1-3d.png)
 
 ### MITE (Micro Inline Terrain ESC)
 
@@ -315,4 +315,4 @@ The Kovali name and logo are trademarks of Kovali, a California limited liabilit
 The ARCS name and logo belong to Avionics, Robotics, and Control Systems, a nonprofit corporation and IRS-recognized 501(c)(3) public charity, and are used with permission.
 
 If you build, modify, or distribute this board, please remove both logos from the silkscreen.
-The logo footprints (`arcs_medium_logo`, `[your logo footprint]`) are excluded from the CERN-OHL license.
+The logo footprints are excluded from the CERN-OHL license.
