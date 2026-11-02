@@ -1,6 +1,6 @@
 # MITE - SCX24 Electronic Speed Controller
 
-![MITE v1 board render](docs/images/mite-v1-3d.png)
+![MITE v1 board render](docs/images/mite-v1-white.png)
 
 ### MITE (Micro Inline Terrain ESC)
 
@@ -14,7 +14,7 @@ Both firmwares are **bare-metal C++17**: no vendor HAL and no CubeMX-generated c
 > **Status**
 >
 > - Crawler and controller firmware run on prototype (two Black Pill boards).
-> - **MITE v1** (custom crawler PCB): layout about 80% done, not yet fabricated. The firmware pin map has to be updated for the new board (see [Pin maps](#pin-maps)).
+> - **MITE v1** (custom crawler PCB): layout about 90% done, antenna needs impedance matching, then going through CDR, not yet fabricated. The firmware pin map has to be updated for the new board (see [Pin maps](#pin-maps)).
 > - Controller PCB: schematic captured, layout not started.
 
 ---
@@ -174,11 +174,11 @@ The controller transmits continuously, and the crawler listens on pipe 0.
 
 | Signal           | Pin           | Peripheral        | Changed? |
 | ---------------- | ------------- | ----------------- | -------- |
-| nRF CE           | PA7           | GPIO              | ✱        |
-| nRF CSN          | PA6           | GPIO              | ✱        |
+| nRF CE           | PA3           | GPIO              | ✱        |
+| nRF CSN          | PA4           | GPIO              | ✱        |
 | nRF SCK          | PA5           | SPI1_SCK          |          |
-| nRF MISO         | PA3           | under review      | ✱        |
-| nRF MOSI         | PA4           | under review      | ✱        |
+| nRF MISO         | PA6           | SPI1_MISO         | ✱        |
+| nRF MOSI         | PA7           | SPI1_MOSI         | ✱        |
 | nRF IRQ          | not connected | (polled over SPI) |          |
 | Motor PWM (PWMA) | PB4           | TIM3_CH1          | ✱        |
 | AIN1             | PB6           | GPIO              | ✱        |
@@ -296,8 +296,8 @@ Currently a prototype-level build. The KiCad schematic is in [`hardware/controll
 
 ## Roadmap
 
+- [ ] Impedance match the antenna (add pi network??)
 - [ ] Finish MITE v1 routing and DRC, then fabricate
-- [ ] Update the crawler firmware pin map for MITE v1
 - [ ] **Failsafe:** stop the motor and center the steering if no packet arrives within a timeout
 - [ ] Range test of the chip antenna vs. an nRF24 module
 - [ ] Controller PCB layout
@@ -307,9 +307,12 @@ Currently a prototype-level build. The KiCad schematic is in [`hardware/controll
 
 ## License
 
-- **Firmware** (`controller/`, `crawler/`, `drivers/`): [MIT](LICENSE) © 2026 Simon Schmidt
-- **Hardware design files** (`hardware/`): [CERN-OHL-P v2](hardware/LICENSE) © 2026 Simon Schmidt
+**Firmware** (`controller/`, `crawler/`, `drivers/`): [MIT](LICENSE) © 2026 Simon Schmidt
+**Hardware design files** (`hardware/`): [CERN-OHL-P v2](hardware/LICENSE) © 2026 Simon Schmidt
+
+The Kovali name and logo are trademarks of Kovali, a California limited liability company. All rights reserved.
 
 The ARCS name and logo belong to Avionics, Robotics, and Control Systems, a nonprofit corporation and IRS-recognized 501(c)(3) public charity, and are used with permission.
-They are **not** covered by the MIT or CERN-OHL licenses above. If you build or modify this board,
-please remove the ARCS logo from the silkscreen.
+
+If you build, modify, or distribute this board, please remove both logos from the silkscreen.
+The logo footprints (`arcs_medium_logo`, `[your logo footprint]`) are excluded from the CERN-OHL license.
