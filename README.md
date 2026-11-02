@@ -1,6 +1,6 @@
 # MITE - SCX24 Electronic Speed Controller
 
-![MITE v1 board render](docs/images/mite-v1-3d.png)
+![MITE v1 board render](docs/images/mite-v1-white.png)
 
 ### MITE (Micro Inline Terrain ESC)
 
