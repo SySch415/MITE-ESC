@@ -2,6 +2,8 @@ build/
 compile_commands.json
 
 #kicad junk
+*.lck
+*.kicad_prl
 *.kicad_pro.lck
 *-backups/
 _autosave-*
