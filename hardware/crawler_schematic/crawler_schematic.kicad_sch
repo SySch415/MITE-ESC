@@ -19785,7 +19785,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal"
+		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
 			(at 48.26 212.09 0)
 			(hide yes)
 			(show_name no)
@@ -21208,7 +21208,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal"
+		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
 			(at 22.86 27.94 0)
 			(hide yes)
 			(show_name no)
