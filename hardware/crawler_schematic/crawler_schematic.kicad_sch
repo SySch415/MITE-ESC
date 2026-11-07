@@ -15515,7 +15515,7 @@
 				)
 			)
 		)
-		(property "Value" "4.3pF"
+		(property "Value" "12pF"
 			(at 212.09 43.18 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19652,7 +19652,7 @@
 				)
 			)
 		)
-		(property "Value" "2.2uF"
+		(property "Value" "4.7uF"
 			(at 228.6 99.06 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23227,7 +23227,7 @@
 				)
 			)
 		)
-		(property "Value" "4.3pF"
+		(property "Value" "12pF"
 			(at 212.09 38.1 90)
 			(show_name no)
 			(do_not_autoplace no)
