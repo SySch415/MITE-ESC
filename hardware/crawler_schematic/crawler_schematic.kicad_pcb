@@ -222,6 +222,32 @@
 				)
 			)
 		)
+		(property "MPN" "RC0603FR-0710KL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c53c6758-1c78-452e-a68b-c3321aa20a52")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "900018c0-6d7e-420c-bcf6-b3f2937b32e2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/2415e733-dc62-4e4e-99e2-a0dd8bae455f")
 		(sheetname "/")
@@ -376,6 +402,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "42d73d84-0beb-479e-bd97-4e5ddaea206b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "B2B-PH-K-S(LF)(SN)"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "18a03240-62db-490a-b3ac-9bb00be2516f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "JST"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5807ec22-71bf-4850-9aca-a1dc68272d36")
 			(effects
 				(font
 					(size 1 1)
@@ -879,6 +931,32 @@
 				)
 			)
 		)
+		(property "MPN" "GRM155R71C104KA88D"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6c39e3ae-661c-4c67-97e1-77fb9e97f832")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "14114693-c9ab-48e8-9554-119328718352")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/ff6d4825-f53d-44d7-82c8-a06f32097c9a")
 		(sheetname "/")
@@ -1032,6 +1110,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "a054f272-ffe1-4de2-939d-e1d4f9f3cfb8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0603FR-0710KL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cd687b05-1dbe-4fb4-a1d7-2a54cc67d567")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f0a02334-1d46-4c24-98ff-7eb7ec4ba671")
 			(effects
 				(font
 					(size 1 1)
@@ -1251,7 +1355,7 @@
 		(at 129.35 115.6 -90)
 		(descr "CK components KMR2 tactile switch http://www.ckswitches.com/media/1479/kmr2.pdf")
 		(tags "tactile switch kmr2")
-		(property "Reference" "NRST"
+		(property "Reference" "SW_rst_2"
 			(at -0.1 2.35 90)
 			(layer "F.SilkS")
 			(uuid "a594014b-9a05-4251-8e06-4d510498b2c4")
@@ -1296,6 +1400,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "KMR211NG LFS"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1763ab33-bbe2-4e61-9173-77d38a34dda4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "C&K"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b7d440fc-f559-4a3d-897b-6731e9d14cb5")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1559,6 +1689,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "bf0cca75-8bd9-42cf-b10d-4a2c60e21999")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "GRM155R71C104KA88D"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b24c14ad-64e8-4d8f-9a32-4cbf38cdff51")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2e9251ec-fe30-4428-8b6c-e9c0977d87a9")
 			(effects
 				(font
 					(size 1 1)
@@ -2004,6 +2160,32 @@
 				)
 			)
 		)
+		(property "MPN" "GRM155R71H103KA88D"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2b089fed-60c0-4f21-808d-1d964b86eef8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6b707690-8d52-49d9-adac-ce68adf914b8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/ea2e89f4-05d4-4b8b-824b-5d46b7d37157")
 		(sheetname "/")
@@ -2157,6 +2339,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "90b255bb-7286-4c76-aa22-a24cf404bfcd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0603FR-0744K2L"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "63de1380-a11b-438d-8d97-f5374abc7da0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "855ed827-7a44-4e5b-8a6c-790b2a7efd30")
 			(effects
 				(font
 					(size 1 1)
@@ -2653,6 +2861,32 @@
 				)
 			)
 		)
+		(property "MPN" "LQG15HS2N7S02D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0f9f6318-0048-4a52-8c2e-9cafb9475461")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d980848d-27a7-407b-9bd8-dc69ea2a90c2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/651ca0b9-d783-427e-bbc5-113704f47419")
 		(sheetname "/")
@@ -2749,7 +2983,7 @@
 				)
 			)
 		)
-		(property "Value" "Opt."
+		(property "Value" "DNP"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2805,7 +3039,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd)
+		(attr smd exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.14058 0.51)
@@ -2909,7 +3143,7 @@
 				)
 			)
 		)
-		(property "Value" "Opt."
+		(property "Value" "DNP"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2965,7 +3199,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd)
+		(attr smd exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.14058 0.51)
@@ -3225,6 +3459,32 @@
 				)
 			)
 		)
+		(property "MPN" "GRM188R61A475KE15D"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d0a80d4e-d221-44ac-b81f-51dd662c0e6f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e750e764-cdfa-4900-82b4-e2658d9d54b5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/9a7b30a2-8942-4394-989f-b718af0bc6a9")
 		(sheetname "/")
@@ -3339,7 +3599,7 @@
 				)
 			)
 		)
-		(property "Value" "Opt."
+		(property "Value" "DNP"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3395,7 +3655,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd)
+		(attr smd exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.14058 0.51)
@@ -3538,6 +3798,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "d246ba14-b411-43a6-b83c-e96a89043283")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "GRM31CC71E226ME15L"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ac8a8118-7f86-4c91-814a-9019a7e888c2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d08e44db-58bc-4518-963c-efa2aa79518b")
 			(effects
 				(font
 					(size 1 1)
@@ -3698,6 +3984,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "d3c779ed-f1ea-4429-89a6-d7f58b3c6a8f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "GRM188R71H104KA93D"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e3f70bc1-b451-4adb-9415-668beffe944f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a8f0372b-3bdb-40de-ad87-c2d60c2f7ced")
 			(effects
 				(font
 					(size 1 1)
@@ -3866,6 +4178,32 @@
 				)
 			)
 		)
+		(property "MPN" "LQG15HS8N2J02D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "db04c211-6e96-40a1-8abe-f9697da69d92")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c30c90d3-1718-49b8-896d-a613eb9af05a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/b6bbdf10-e2df-4eb3-befd-f057d778db21")
 		(sheetname "/")
@@ -4001,6 +4339,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "f39b8305-6aa9-4492-b968-d02b7154d45d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "B2B-PH-K-S(LF)(SN)"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b9e357e9-9207-42cf-b03e-44505b681414")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "JST"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c62a8c83-3149-4cea-8fdd-921ce2162642")
 			(effects
 				(font
 					(size 1 1)
@@ -4408,6 +4772,32 @@
 				)
 			)
 		)
+		(property "MPN" "LTST-C171KRKT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6be657f7-870f-4f8e-961a-ee3d91ead456")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Lite-On"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6edc3714-bb96-4ff0-b8b7-4d3157f7a0b1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/72a4ee21-7234-4a37-a574-d482ed5bc18d")
 		(sheetname "/")
@@ -4619,6 +5009,32 @@
 				)
 			)
 		)
+		(property "MPN" "RC0603FR-0710KL"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1a877039-181c-4159-bfd8-d8e58e5c7a15")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f2506d65-c0b1-4e4c-a794-53762df139a0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f4c6d262-50c6-4790-9155-573226cebdfe")
 		(sheetname "/")
@@ -4773,6 +5189,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "0ac454cd-d9f6-4831-b1b9-6fc41b24df4c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "EEE-HA1E470WP"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ff951e69-60bf-45e8-93bc-7744001ab10e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c592f4e2-07c5-422e-b3ca-212653a9e033")
 			(effects
 				(font
 					(size 1 1)
@@ -5240,7 +5682,7 @@
 				(pins "1" "2" "3")
 			)
 		)
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.38 -1.38)
@@ -5485,6 +5927,32 @@
 				)
 			)
 		)
+		(property "MPN" "GRM1555C1H1R5CA01D"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "45a3f642-2812-4ea5-ac88-bed9da7323fb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "17313004-c859-4eca-bf0c-30d937eba27e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/80974fc1-1681-489d-bb5b-60dffd8ba3aa")
 		(sheetname "/")
@@ -5638,6 +6106,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "48347a98-84bc-4bd7-849e-0f305eb0468a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0603FR-0710KL"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ac78a5ae-cd9c-4b42-aacd-05cae52f297d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ab154b6a-a615-46d1-ac6a-cacffa55a640")
 			(effects
 				(font
 					(size 1 1)
@@ -5806,6 +6300,32 @@
 				)
 			)
 		)
+		(property "MPN" "GRM155R71H222KA01D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fab522d4-f061-4220-80ea-fc0a6f2a53dc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "07d5cb14-b6a0-4059-b910-d6b24d49a724")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/9cc68d95-f24c-453c-885b-88680380904a")
 		(sheetname "/")
@@ -5960,6 +6480,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "FTC303018D4R7MBCA"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "217da1b1-f0ef-49b2-a9b9-3bd077fd7593")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "cjiang (Changjiang Microelectronics)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5b5f233e-e0f9-45d9-9d6c-d2541c70fbc8")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6145,6 +6691,45 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "632fb717-9a22-47a2-b06c-6c3fed3cb7bb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C141517"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cec3da18-91fd-490e-806b-56231dff2df9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "TB6612FNG,C,8,EL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "647596f4-6e2e-4780-9fa8-74e6b99092a4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Toshiba"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5dd0291d-328d-46a1-8c04-2c8d524b7ba1")
 			(effects
 				(font
 					(size 1 1)
@@ -6699,6 +7284,32 @@
 				)
 			)
 		)
+		(property "MPN" "GRM1555C1H220JA01D"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ce30792b-ee45-4a95-a960-5307a565559c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "53292119-d25e-431f-93e9-a384c66d5750")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/f14c5c97-04da-470d-999a-e5f8d7a4413c")
 		(sheetname "/")
@@ -6852,6 +7463,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "7f87e166-20aa-4cdc-97c1-15758f608b04")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0603FR-075K1L"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8480d068-c00f-4ed3-a40b-d50918026f87")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6d4fa662-06f4-40dd-8264-2c2ea76c90da")
 			(effects
 				(font
 					(size 1 1)
@@ -7019,6 +7656,32 @@
 				)
 			)
 		)
+		(property "MPN" "GRM188R71H104KA93D"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b50f4846-ec6c-4ac6-b31d-f79288875eda")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "697439d3-d136-4686-8569-d8bdeb0ac243")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/ce86a212-e63d-4472-b078-a53da51c314d")
 		(sheetname "/")
@@ -7172,6 +7835,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "4da9fdf5-b00a-4ee3-a203-3c05a06b7dff")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "GRM188R61A106KE69D"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9b39601a-7875-4ae3-880d-f5c97384fdc7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "69ad9322-dd2b-4e43-9ea4-a8502a098102")
 			(effects
 				(font
 					(size 1 1)
@@ -7333,6 +8022,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "FTC303018D4R7MBCA"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a79aaa55-f83f-4883-bbd4-74023d94cf0f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "cjiang (Changjiang Microelectronics)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "14251bef-273d-4c70-adb2-998273046e9a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -7524,6 +8239,32 @@
 				)
 			)
 		)
+		(property "MPN" "GRM1885C1H120JA01D"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4109a79c-4f85-402a-b6fe-9d583e3c413c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b3dc9b0d-101d-4899-8b61-41fb6e9a36bc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/5ab3077b-c3cf-425f-8ddc-864505e80f85")
 		(sheetname "/")
@@ -7684,6 +8425,32 @@
 				)
 			)
 		)
+		(property "MPN" "GRM31CC71E226ME15L"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "030cf927-97b6-4d9e-b6d5-b7c1008ec7ef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "620403dd-5590-4815-8863-0bd7528fbabc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "CP_*")
 		(path "/e3eb7469-db8e-43b5-82d2-2d8c5565d0c7")
 		(sheetname "/")
@@ -7786,7 +8553,7 @@
 		(at 136.95 115.7 90)
 		(descr "CK components KMR2 tactile switch http://www.ckswitches.com/media/1479/kmr2.pdf")
 		(tags "tactile switch kmr2")
-		(property "Reference" "BOOT0"
+		(property "Reference" "SW_B_1"
 			(at 0.2 2.3 90)
 			(layer "F.SilkS")
 			(uuid "c0440d5f-c8ec-46aa-950e-3dd7a2d1b69e")
@@ -7831,6 +8598,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "KMR211NG LFS"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ea744dc1-7c73-4f92-af31-42544f97beaa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "C&K"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2dd03f33-c690-411d-a25b-c0754e437fa7")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8055,7 +8848,7 @@
 				)
 			)
 		)
-		(property "Value" "Opt."
+		(property "Value" "DNP"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -8111,7 +8904,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd)
+		(attr smd exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.14058 0.51)
@@ -8693,6 +9486,32 @@
 				)
 			)
 		)
+		(property "MPN" "GRM1555C1H1R0CA01D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4c9f0b02-d5e5-4ebb-9e4f-de5b665afe31")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0f29afe9-e073-4d7f-92bc-f6d687a42a72")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/1d2d1c86-9c55-41e1-96a9-0a27c48b7d9f")
 		(sheetname "/")
@@ -8859,6 +9678,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0f763253-55be-4323-a233-7a7b17e386ce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "LTST-C171TBKT "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c7e014e1-400a-405d-9e38-01217ba2799d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Lite-On"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6492ec7c-96ca-42a3-8196-37e40a43865c")
 			(effects
 				(font
 					(size 1 1)
@@ -9187,6 +10032,32 @@
 				)
 			)
 		)
+		(property "MPN" "RC0603FR-0710KL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "461a7f73-9869-49dd-ba83-c975a70488f2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a36ddd7e-bf90-405c-ad2e-57d0e3a41de7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a5a30c8c-f711-487b-aea2-7bd4f8b18c28")
 		(sheetname "/")
@@ -9341,6 +10212,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "19feb983-70ff-414d-aa80-906ddcaed400")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "STM32F411CEU6"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4635fbcd-8e5d-4376-9eae-6ec341b657ab")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "STMicroelectronics"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fb39649d-2aa4-4128-ade6-096786dd75fa")
 			(effects
 				(font
 					(size 1 1)
@@ -10360,6 +11257,32 @@
 				)
 			)
 		)
+		(property "MPN" "LQG15HS3N9S02D"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9cbad295-9328-4ace-9f9c-a90dab5a219c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1be9753b-84aa-4749-b0cb-dd8bde10242d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/fbbe6245-31a3-4ac1-914d-de8beb0ca31f")
 		(sheetname "/")
@@ -10497,6 +11420,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "5715a809-0071-4bb3-b985-7e6eba708750")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "GRM155R71C104KA88D"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9b1a468a-ec8b-4bfb-aa61-7bb7f24364ac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "343aa1cf-73c4-4cc9-9bb1-85145055c580")
 			(effects
 				(font
 					(size 1 1)
@@ -10657,6 +11606,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "95885430-27f7-43fa-8918-e70463e9b21c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "LQM18DN100M70L"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0b7b903d-bec4-4e10-a9be-e7442ff894d0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "de9c123c-dca4-40fc-9d75-5185b197cd1f")
 			(effects
 				(font
 					(size 1 1)
@@ -10827,6 +11802,32 @@
 				)
 			)
 		)
+		(property "MPN" "GRM155R71C333KA01D"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3aede328-6a83-4f43-bfd7-6d6098034261")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d8024936-5b77-4f18-a700-a19461a34c95")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/bebada1b-0460-43e0-b3f5-97f93ac86cb8")
 		(sheetname "/")
@@ -10987,6 +11988,32 @@
 				)
 			)
 		)
+		(property "MPN" "GRM21BR61A226ME51L"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f31cbdc4-3b83-47e9-9605-9c936f347150")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8b3f12a8-ec1a-4cfd-8fc3-363a7e370846")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "CP_*")
 		(path "/7af7b142-dc53-41f1-b83d-c50934a18d1e")
 		(sheetname "/")
@@ -11136,6 +12163,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" " 2450AT43F0100001E"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5ef1267e-f4ba-454a-91de-c561d4315ac1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" " Johanson Technology Inc."
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cdd12d3e-8b2a-481a-931a-27df695ccc1b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -11376,6 +12429,32 @@
 				)
 			)
 		)
+		(property "MPN" "GRM31CR71E106KA12L"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "59ff12df-fbb2-4551-b2e0-28be7f8c46b1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "811e2816-e776-4c14-b21e-24254d46f628")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/195422d7-977b-4973-bd44-4e4572df18bd")
 		(sheetname "/")
@@ -11529,6 +12608,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "18eab575-2d6b-4492-8a52-bf64f48d3705")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "ABM8AIG-16.000MHZ-12-2Z-T3"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8bce9576-38c3-463a-8bd9-d91661b004b9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Abracon"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a036f5d2-2cdd-426c-b30c-da37035707aa")
 			(effects
 				(font
 					(size 1 1)
@@ -11720,6 +12825,32 @@
 				)
 			)
 		)
+		(property "MPN" "GRM155R71H102KA01D"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c881ae9c-15dc-4bd5-b5f1-8ea84db57396")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8f4eeb6d-68f6-42ad-acee-47bb1ef872c1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a55a4642-700e-4557-9bec-756cb07c6ee5")
 		(sheetname "/")
@@ -11881,6 +13012,32 @@
 				)
 			)
 		)
+		(property "MPN" "GRM1555C1H220JA01D"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "31259db7-b45c-4bcf-a3d0-673580a3023f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4cde78b9-3c21-4141-856b-d244776474cb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/23b1477b-e9fd-481d-81f3-780cefd768cd")
 		(sheetname "/")
@@ -12034,6 +13191,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "5506abca-eead-4988-bb16-d109881923da")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "GRM188R71H104KA93D"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "88ce9e28-6060-4f1a-ba79-c37e60b81b5a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6d3010e2-a188-4d9c-8f73-0a23d01e6743")
 			(effects
 				(font
 					(size 1 1)
@@ -12202,6 +13385,32 @@
 				)
 			)
 		)
+		(property "MPN" "GRM155R71H103KA88D"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ce7d6c6a-4e96-4690-8132-40298e2aea77")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "97f2d997-a667-4c60-b7e7-013c7c130cf1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/6a663e71-822e-486e-9613-074531ed25ba")
 		(sheetname "/")
@@ -12354,6 +13563,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "8bae4fcf-ec2f-407a-98f2-4979ed68965c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0603FR-071ML"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b32f3c7d-cb79-45b2-ae06-83657a82379f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "32134937-c4e4-4df8-b366-285b522a6147")
 			(effects
 				(font
 					(size 1 1)
@@ -12514,6 +13749,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "4a2bec57-8086-49b5-b60e-092890373995")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "ABM8N-25.0000MHZ-10-D2Y-T3"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ef22eded-5f03-40a7-adb4-73ca4b390102")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Abracon"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5a00a31a-33b7-4426-b41b-c06748767945")
 			(effects
 				(font
 					(size 1 1)
@@ -12705,6 +13966,32 @@
 				)
 			)
 		)
+		(property "MPN" "RC0603FR-0710KL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d7153f3d-e486-4515-8cae-9c37aeedf0b7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "66a05b35-559d-4b07-9a0c-132d5badfd89")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/32eddace-abac-4efb-bb7c-eb3ba2f08c0c")
 		(sheetname "/")
@@ -12858,6 +14145,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "a4604302-41a0-4532-9ebe-41c99f2ced9e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0603FR-0710KL"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2f8ac74c-c10c-49c5-871e-4743a8090229")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0fd9d145-39b9-49d4-b240-0b010fdc67c3")
 			(effects
 				(font
 					(size 1 1)
@@ -13035,7 +14348,7 @@
 				(pins "1" "2" "3" "4")
 			)
 		)
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.38 -1.38)
@@ -13282,6 +14595,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "96e72a5c-3475-439f-b8d2-8ae8360468ec")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "NRF24L01P-R"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0d12b92f-d246-448e-91bc-e93759a830b6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Nordic Semiconductor"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e7bcb5d4-f8a7-4ff3-b56d-f7f71d800a9e")
 			(effects
 				(font
 					(size 1 1)
@@ -13924,6 +15263,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "c3850800-8b23-4184-8f73-8a735424aa87")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0603FR-0725K5L"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d526cbb1-b74e-4974-bac2-429f9a35761c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ef10b38d-4286-4972-bc8c-73c1e764b40c")
 			(effects
 				(font
 					(size 1 1)
@@ -14791,6 +16156,32 @@
 				)
 			)
 		)
+		(property "MPN" "GRM155R71C104KA88D"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0aeef81c-ac8f-403d-9c75-fd52ffc895d4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a8267eda-915b-437a-b1b6-4e43a71a4db1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/6793ccb0-f21d-401e-b96b-135ce083a6c9")
 		(sheetname "/")
@@ -14961,7 +16352,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd)
+		(attr smd exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -15065,7 +16456,7 @@
 				)
 			)
 		)
-		(property "Value" "Opt."
+		(property "Value" "DNP"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -15121,7 +16512,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd)
+		(attr smd exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.14058 0.51)
@@ -15265,6 +16656,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "85a7ed20-f2fb-4e1e-84a5-9a7fdd538af4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0603FR-0710KL"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5df18d61-657b-4933-ab41-46d0914ce5c2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f8110d49-4bbd-496a-a668-df091256f441")
 			(effects
 				(font
 					(size 1 1)
@@ -15424,6 +16841,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "e2e1eb54-a61b-4f85-9464-28d1b7a4f52d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0603FR-0722KL"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7e576eb2-d11f-4753-927c-fe4f89ef69f0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9f6249cf-7590-4c20-886e-00fd182acdcf")
 			(effects
 				(font
 					(size 1 1)
@@ -15591,6 +17034,32 @@
 				)
 			)
 		)
+		(property "MPN" "GRM1885C1H120JA01D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "89414f4f-4f57-4a66-b2c0-8d91c37d2482")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "815ec81a-f209-40dd-a53a-cb78b1bb5552")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/e6947f57-37f6-4e13-9289-672835ed941e")
 		(sheetname "/")
@@ -15744,6 +17213,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "b38b9e88-2e71-4ea6-b5a9-f2dfb473bd63")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "GRM21BR61C226ME44L"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "919fc0da-9f8d-48aa-b3f4-bbd7f552f6af")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5ec98ad1-6d69-4a24-8ef7-2a5761cce50d")
 			(effects
 				(font
 					(size 1 1)
@@ -15912,6 +17407,32 @@
 				)
 			)
 		)
+		(property "MPN" "GRM1555C1H4R7CA01D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a806d453-6b3a-4d91-8b58-a212b86e2aac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b88d9152-c789-4cdc-87fc-1d98afc5adb1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/5f286059-dd8e-489b-beec-466704171a77")
 		(sheetname "/")
@@ -16072,6 +17593,32 @@
 				)
 			)
 		)
+		(property "MPN" "RC0603FR-071KL"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "274f8fe9-bd4d-47cf-a686-7fba972b564a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1562c7fb-f85c-4f8e-a1a2-1bbf58e09124")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/83e979c1-0caf-43ef-bee5-6845aa2126db")
 		(sheetname "/")
@@ -16186,7 +17733,7 @@
 				)
 			)
 		)
-		(property "Value" "Opt."
+		(property "Value" "DNP"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16242,7 +17789,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd)
+		(attr smd exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.14058 0.51)
@@ -16334,7 +17881,7 @@
 		(at 101.5 123 180)
 		(descr "SMD pad as test Point, diameter 1.5mm")
 		(tags "test point SMD pad")
-		(property "Reference" "MOSI"
+		(property "Reference" "TP1"
 			(at -2.75 -0.25 0)
 			(layer "B.SilkS")
 			(uuid "9fb2d330-1845-4c5c-8e30-2fe844151fe0")
@@ -16397,6 +17944,7 @@
 				(pins "1")
 			)
 		)
+		(attr exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -16449,7 +17997,7 @@
 		(at 101.5 117.5 180)
 		(descr "SMD pad as test Point, diameter 1.5mm")
 		(tags "test point SMD pad")
-		(property "Reference" "CSN"
+		(property "Reference" "TP4"
 			(at -2.5 0 0)
 			(layer "B.SilkS")
 			(uuid "1c7e45c2-d5bd-4a3a-8323-fba63c9a8a19")
@@ -16512,6 +18060,7 @@
 				(pins "1")
 			)
 		)
+		(attr exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -16564,7 +18113,7 @@
 		(at 101.5 128.5 180)
 		(descr "SMD pad as test Point, diameter 1.5mm")
 		(tags "test point SMD pad")
-		(property "Reference" "GND"
+		(property "Reference" "TP5"
 			(at -2.5 0 0)
 			(layer "B.SilkS")
 			(uuid "88f9f8f8-a564-44f2-9f19-6bd5ef59d68f")
@@ -16627,6 +18176,7 @@
 				(pins "1")
 			)
 		)
+		(attr exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -16679,7 +18229,7 @@
 		(at 101.5 125.75 180)
 		(descr "SMD pad as test Point, diameter 1.5mm")
 		(tags "test point SMD pad")
-		(property "Reference" "MISO"
+		(property "Reference" "TP2"
 			(at -2.75 0 0)
 			(layer "B.SilkS")
 			(uuid "b9ce1378-972a-4bb4-84a5-c79512a9f17c")
@@ -16742,6 +18292,7 @@
 				(pins "1")
 			)
 		)
+		(attr exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -16794,7 +18345,7 @@
 		(at 101.5 120.25 180)
 		(descr "SMD pad as test Point, diameter 1.5mm")
 		(tags "test point SMD pad")
-		(property "Reference" "SCK"
+		(property "Reference" "TP3"
 			(at -2.5 0 0)
 			(layer "B.SilkS")
 			(uuid "1066f7b3-695a-4079-9368-f40032169659")
@@ -16857,6 +18408,7 @@
 				(pins "1")
 			)
 		)
+		(attr exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
